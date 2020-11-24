@@ -27,6 +27,14 @@
          "height":34,
          "name":"top",
          "opacity":1,
+         "properties":
+            {
+             "collides":true
+            },
+         "propertytypes":
+            {
+             "collides":"bool"
+            },
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -71,6 +79,76 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tileproperties":
+            {
+             "120":
+                {
+                 "collides":true
+                },
+             "121":
+                {
+                 "collides":true
+                },
+             "136":
+                {
+                 "collides":true
+                },
+             "137":
+                {
+                 "collides":true
+                },
+             "155":
+                {
+                 "collides":true
+                },
+             "156":
+                {
+                 "collides":true
+                },
+             "157":
+                {
+                 "collides":true
+                },
+             "196":
+                {
+                 "collides":true
+                }
+            },
+         "tilepropertytypes":
+            {
+             "120":
+                {
+                 "collides":"bool"
+                },
+             "121":
+                {
+                 "collides":"bool"
+                },
+             "136":
+                {
+                 "collides":"bool"
+                },
+             "137":
+                {
+                 "collides":"bool"
+                },
+             "155":
+                {
+                 "collides":"bool"
+                },
+             "156":
+                {
+                 "collides":"bool"
+                },
+             "157":
+                {
+                 "collides":"bool"
+                },
+             "196":
+                {
+                 "collides":"bool"
+                }
+            },
          "tilewidth":32
         }, 
         {
