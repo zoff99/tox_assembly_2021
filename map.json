@@ -86,7 +86,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32,
          "tiles":[
                 {
                  "id":120,
@@ -159,7 +158,8 @@
                          "type":"bool",
                          "value":true
                         }]
-                }]
+                }],
+         "tilewidth":32
         }, 
         {
          "columns":8,
