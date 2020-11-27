@@ -86,6 +86,7 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tilewidth":32,
          "tiles":[
                 {
                  "id":120,
@@ -158,8 +159,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                }],
-         "tilewidth":32
+                }]
         }, 
         {
          "columns":8,
@@ -171,6 +171,32 @@
          "name":"floortileset",
          "spacing":0,
          "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":9,
+         "firstgid":321,
+         "image":"fdroid.png",
+         "imageheight":124,
+         "imagewidth":320,
+         "margin":15,
+         "name":"fdroidlogo",
+         "spacing":0,
+         "tilecount":27,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":348,
+         "image":"toxlogo.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"toxlogo",
+         "spacing":0,
+         "tilecount":16,
          "tileheight":32,
          "tilewidth":32
         }],
