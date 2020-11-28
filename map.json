@@ -68,6 +68,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tox_cafe"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -158,6 +163,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/toktok.ltd\/integrations.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
