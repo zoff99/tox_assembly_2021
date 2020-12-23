@@ -36,7 +36,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/toxcon2018.zoff.cc\/toxassmap\/floor02\/amb.mp3"
+                 "value":"amb.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -54,7 +54,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/toxcon2018.zoff.cc\/toxassmap\/floor02\/spooky.mp3"
+                 "value":"spooky.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -77,7 +77,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/toxcon2018.zoff.cc\/toxassmap\/floor02\/die.mp3"
+                 "value":"die.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -95,7 +95,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/toxcon2018.zoff.cc\/toxassmap\/floor02\/sinister_laugh.mp3"
+                 "value":"sinister_laugh.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -113,7 +113,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/toxcon2018.zoff.cc\/toxassmap\/floor02\/donly.mp3"
+                 "value":"donly.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -136,7 +136,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/toxcon2018.zoff.cc\/toxassmap\/floor02\/pig.mp3"
+                 "value":"pig.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

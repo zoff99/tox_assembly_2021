@@ -36,7 +36,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/toxcon2018.zoff.cc\/toxassmap\/floor03\/spooky.mp3"
+                 "value":"spooky.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
