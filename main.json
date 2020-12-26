@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"metalab.json#kammerl"
+                 "value":"{<foobar>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/lyon.json"
+                 "value":"{<lobby>\/software.json#start_tox}"
                 }],
          "type":"tilelayer",
          "visible":true,
