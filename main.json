@@ -160,9 +160,9 @@
                  "value":"tox_cafe"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"XjitsiTrigger",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"Xonaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -327,9 +327,9 @@
                  "value":"https:\/\/toktok.ltd\/integrations.html"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"XopenWebsiteTrigger",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"Xonaction"
                 }],
          "type":"tilelayer",
          "visible":true,
