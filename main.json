@@ -47,7 +47,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"{<metalab>\/main.json}"
                 }],
@@ -65,7 +65,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"{<lobby>\/maps\/software.json#start_tox}"
                 }],
