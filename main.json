@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<metalab>\/main.json}"
+                 "value":"{<metalab>\/map.json#start_tox}"
                 }],
          "type":"tilelayer",
          "visible":true,
