@@ -52,7 +52,7 @@
                  "value":"cafe_floor01"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"XjitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
