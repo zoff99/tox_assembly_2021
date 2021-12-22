@@ -710,6 +710,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -949,6 +955,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -962,6 +974,12 @@
          "imagewidth":320,
          "margin":15,
          "name":"fdroidlogo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -975,6 +993,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"toxlogo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -988,6 +1012,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"sir_henrys_32_font",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1001,6 +1031,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"qtoxlogo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":18,
          "tileheight":32,
@@ -1014,6 +1050,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"metalab01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -1027,6 +1069,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"david-clarke-RS4m6B1t304-unsplash",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
@@ -1040,6 +1088,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"daniel-thurler-1t8OvrBaSbk-unsplash",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -1053,6 +1107,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"alex-blajan-16ad3Hx4_fU-unsplash",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
@@ -1066,6 +1126,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"toxic_linux",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -1079,6 +1145,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"trifa_logo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -1092,6 +1164,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"toxproxy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -1105,6 +1183,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"cafe_001",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -1118,6 +1202,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"octo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":272,
          "tileheight":32,
@@ -1340,6 +1430,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"black_32_32_square",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1363,6 +1459,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1376,6 +1478,12 @@
          "imagewidth":1216,
          "margin":0,
          "name":"tentacle_01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":152,
          "tileheight":32,
@@ -1389,6 +1497,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"octo_no_anim",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":272,
          "tileheight":32,
@@ -1402,6 +1516,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"moving_tentacles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":272,
          "tileheight":32,
@@ -1542,6 +1662,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"skull",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1555,6 +1681,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"blood_hand",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1568,6 +1700,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1581,6 +1719,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1594,6 +1738,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1607,6 +1757,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1620,6 +1776,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle5",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1633,6 +1795,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle6",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1646,6 +1814,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle7",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1659,6 +1833,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle8",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1672,6 +1852,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle9",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1685,6 +1871,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle10",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1698,6 +1890,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"twitter",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1711,6 +1909,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"whatsapp",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1724,6 +1928,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1737,6 +1947,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1750,6 +1966,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"light-tile",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":140,
          "tileheight":32,
@@ -2277,6 +2499,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"light-tile02",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":140,
          "tileheight":32,
@@ -2804,6 +3032,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"black_32_32_square_02",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2817,6 +3051,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"z_p02",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -2987,6 +3227,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"toxphone",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":30,
          "tileheight":32,
@@ -3000,6 +3246,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"antidotelogo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":18,
          "tileheight":32,
