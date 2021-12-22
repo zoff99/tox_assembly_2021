@@ -620,6 +620,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -823,6 +829,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -836,6 +848,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"sir_henrys_32_font",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -849,6 +867,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"dungeon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1277,6 +1301,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"obelisk",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1290,6 +1320,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"guardian-eyeopen-flame3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1303,6 +1339,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1316,6 +1358,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1329,6 +1377,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1342,6 +1396,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1355,6 +1415,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle5",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1368,6 +1434,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle6",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1381,6 +1453,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle7",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1394,6 +1472,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle8",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1407,6 +1491,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle9",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1420,6 +1510,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"eldritch_tentacle10",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1433,6 +1529,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"vampire",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1446,6 +1548,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"vampire_mage",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1459,6 +1567,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"jormungandr",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1472,6 +1586,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"generic",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1485,6 +1605,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"statue_triangle",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1498,6 +1624,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"crumbled_column_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1521,6 +1653,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"spear",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1544,6 +1682,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"shoals_shallow_water4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1567,6 +1711,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"blue_fountain2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1580,6 +1730,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"book_dog_eared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1593,6 +1749,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"book_indigo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1606,6 +1768,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"book_orange",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1619,6 +1787,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"misc_book",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1632,6 +1806,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"chest",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1645,6 +1825,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"dirt0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1658,6 +1844,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"dirt1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1671,6 +1863,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"limestone0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1684,6 +1882,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"limestone1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1697,6 +1901,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"sand1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1710,6 +1920,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"sand2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1723,6 +1939,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"04",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1736,6 +1958,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"banana",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1749,6 +1977,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"book_of_the_dead",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1762,6 +1996,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"hog",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1775,6 +2015,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"killer_bee",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1788,6 +2034,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"penta_orange",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1801,6 +2053,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"scroll-red",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1814,6 +2072,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"wolf_spider",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1827,6 +2091,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"fow1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -1897,6 +2167,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"fow4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -2223,6 +2499,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"blood_hand",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,

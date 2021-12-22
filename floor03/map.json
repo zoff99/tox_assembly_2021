@@ -106,6 +106,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -309,6 +315,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -322,6 +334,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"sir_henrys_32_font",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -335,6 +353,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"black_32_32_square",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -348,6 +372,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"prison_01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Creative Commons"
+                }],
          "spacing":0,
          "tilecount":288,
          "tileheight":32,
