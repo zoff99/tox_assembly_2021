@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/software.json#start_tox}"
+                 "value":"world:\/\/lobby\/software.json#start_tox"
                 }],
          "type":"tilelayer",
          "visible":true,
