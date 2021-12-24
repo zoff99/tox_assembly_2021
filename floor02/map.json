@@ -29,7 +29,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"loop",
+                 "name":"audioLoop",
                  "type":"bool",
                  "value":true
                 }, 
@@ -70,7 +70,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"loop",
+                 "name":"audioLoop",
                  "type":"bool",
                  "value":true
                 }, 
@@ -129,7 +129,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"loop",
+                 "name":"audioLoop",
                  "type":"bool",
                  "value":true
                 }, 
