@@ -47,7 +47,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"world:\/\/lobby\/software.json#start_tox"
                 }],
