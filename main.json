@@ -29,9 +29,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/Metalab\/map.json#start_tox}"
+                 "value":"world:\/\/Metalab\/map.json#start_tox"
                 }],
          "type":"tilelayer",
          "visible":true,
