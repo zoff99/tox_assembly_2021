@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/software.json#start_tox}"
+                 "value":"..\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

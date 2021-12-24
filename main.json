@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<metalab>\/map.json#start_tox}"
+                 "value":"world:\/\/Metalab\/map.json#start_tox}"
                 }],
          "type":"tilelayer",
          "visible":true,
