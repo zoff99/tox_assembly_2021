@@ -209,7 +209,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"750-milliseconds-of-silence.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
