@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/software.json#start_tox"
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_tox"
                 }],
          "type":"tilelayer",
          "visible":true,
